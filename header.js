@@ -5,7 +5,7 @@ export function initializeHeader() {
             <div class="header-content">
                 <div class="brand-section">
                     <h1>Diário da Ovelha</h1>
-                    <p class="subtitle">Acompanhando dias especiais com nossas ovelhas</p>
+                    <p class="subtitle">Acompanhando diário da nossa ovelha</p>
                 </div>
                 <div class="nav-container">
                     <button class="nav-arrow prev-btn" aria-label="Previous">
